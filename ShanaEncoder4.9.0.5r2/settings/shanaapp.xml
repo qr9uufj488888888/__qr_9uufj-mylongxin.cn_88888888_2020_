@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--ShanaEncoder-->
+<AppSettings>
+  <folderpath>C:\Users\Luna\Desktop</folderpath>
+  <folderpath2>C:\Users\Luna\Desktop</folderpath2>
+  <Skin>
+    <skinchange>True</skinchange>
+    <SkinColorBack>-12894900</SkinColorBack>
+    <SkinColorFont>-3946794</SkinColorFont>
+    <SkinColorBorder>-14934493</SkinColorBorder>
+  </Skin>
+  <noticeshow>True</noticeshow>
+  <presetpv>True</presetpv>
+  <alwayssaveToolStripMenuItem>True</alwayssaveToolStripMenuItem>
+  <encsingleCheckBox>True</encsingleCheckBox>
+  <encindividualCheckBox>False</encindividualCheckBox>
+  <encconcatenateCheckBox>False</encconcatenateCheckBox>
+  <enclogopenToolStripMenuItem>False</enclogopenToolStripMenuItem>
+  <ProcessPriority>
+    <PHighToolStripMenuItem>False</PHighToolStripMenuItem>
+    <PAboveNormalToolStripMenuItem>False</PAboveNormalToolStripMenuItem>
+    <PNormalToolStripMenuItem>True</PNormalToolStripMenuItem>
+    <PBelowNormalToolStripMenuItem>False</PBelowNormalToolStripMenuItem>
+    <PIdleToolStripMenuItem>False</PIdleToolStripMenuItem>
+  </ProcessPriority>
+  <MultiThread>
+    <DecMTVal> -threads 0 -thread_type frame</DecMTVal>
+    <EncMTVal> -threads 0</EncMTVal>
+  </MultiThread>
+  <PresetLabel>Custom</PresetLabel>
+  <IsUserPreset>True</IsUserPreset>
+  <logsaveToolStripMenuItem>False</logsaveToolStripMenuItem>
+  <FileExist>
+    <encoverwToolStripMenuItem>False</encoverwToolStripMenuItem>
+    <encnumbToolStripMenuItem>True</encnumbToolStripMenuItem>
+    <encnoneToolStripMenuItem>False</encnoneToolStripMenuItem>
+  </FileExist>
+  <DisplayAndSleep>
+    <PreventSleepToolStripMenuItem>True</PreventSleepToolStripMenuItem>
+    <PreventSleepAndTurnOffDisplayToolStripMenuItem>False</PreventSleepAndTurnOffDisplayToolStripMenuItem>
+    <DisablePreventionToolStripMenuItem>False</DisablePreventionToolStripMenuItem>
+  </DisplayAndSleep>
+  <trayToolStripMenuItem>False</trayToolStripMenuItem>
+  <DXVA2ToolStripMenuItem>False</DXVA2ToolStripMenuItem>
+  <D3D11VAToolStripMenuItem>False</D3D11VAToolStripMenuItem>
+  <CUDAToolStripMenuItem>False</CUDAToolStripMenuItem>
+  <QSVToolStripMenuItem>False</QSVToolStripMenuItem>
+  <listIconToolStripMenuItem>True</listIconToolStripMenuItem>
+  <CurrentUICultureName>en</CurrentUICultureName>
+  <save_message>False</save_message>
+  <segment_cropdetect>False</segment_cropdetect>
+  <SDL_volume>128</SDL_volume>
+  <SDL_volume2>128</SDL_volume2>
+  <shanaffplay_help>False</shanaffplay_help>
+  <FFARCH>x64</FFARCH>
+  <OpacityValue>1</OpacityValue>
+  <InActiveValue>0.75</InActiveValue>
+  <gpu_list_index>0</gpu_list_index>
+  <MainLocation>
+    <mainXVal>0</mainXVal>
+    <mainYVal>0</mainYVal>
+    <mainWidthVal>860</mainWidthVal>
+    <mainHeightVal>520</mainHeightVal>
+  </MainLocation>
+  <ofoldercheckBox>False</ofoldercheckBox>
+  <Popup>
+    <sWRPopupToolStripMenuItem>True</sWRPopupToolStripMenuItem>
+  </Popup>
+  <AfterEncoding>
+    <sleepcheckBox>False</sleepcheckBox>
+    <shutdowncheckBox>False</shutdowncheckBox>
+    <aexitToolStripMenuItem>False</aexitToolStripMenuItem>
+    <abellToolStripMenuItem>False</abellToolStripMenuItem>
+    <bellFilePath />
+  </AfterEncoding>
+</AppSettings>
