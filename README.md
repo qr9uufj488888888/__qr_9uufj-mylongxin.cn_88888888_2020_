@@ -17,7 +17,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Therefore, I took into account everyone's feelings, and decided to give you an IP address of the center 1 station that can broadcast live without a card: (resolution: 1920X1080) (Copy the address or open the URL to download the m3u file and use Potplayer or other IPTV player to play it)
 ```markdown
-http://112.17.40.140/PLTV/88888888/224/3221226154/index.m3u8
+http://itv.ahau.edu.cn/hls/hls74a2.m3u8
 ```
 
 ## 特别提醒
@@ -26,7 +26,7 @@ http://112.17.40.140/PLTV/88888888/224/3221226154/index.m3u8
 
 所以，我考虑到了大家的感受，决定给大家一个快速直播且不会卡的中央1台的IP地址：（分辨率：1920X1080)（复制地址或打开网址即可下载m3u文件，打开Potplayer或其他IPTV播放器即可播放）
 ```markdown
-http://112.17.40.140/PLTV/88888888/224/3221226154/index.m3u8 
+http://itv.ahau.edu.cn/hls/hls74a2.m3u8 
 ```
 
 ### Markdown
